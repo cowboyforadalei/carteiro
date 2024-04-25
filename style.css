@@ -1,0 +1,39 @@
+.daw {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .instrument-group {
+    margin-bottom: 20px;
+  }
+  
+  .track {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .audio-btn {
+    padding: 5px 10px;
+    margin: 5px;
+    background-color: #3498db;
+    color: #783434;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pattern-track {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .pattern-audio-btn {
+    padding: 5px 10px;
+    margin: 5px;
+    background-color: #2ecc71;
+    color: #921515;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
